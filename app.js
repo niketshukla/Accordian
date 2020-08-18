@@ -13,7 +13,6 @@ questions.forEach(function (accord) {
         item.classList.remove("show-text");
         }
     });
-
     accord.classList.toggle("show-text");
   });
 });
